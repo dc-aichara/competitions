@@ -11,3 +11,11 @@
 
 
 
+
+
+## Disclaimer
+
+```text
+I don't own copyrights to data provided here. All the data are provided just for reference and educational purpose. 
+
+```
