@@ -6,3 +6,8 @@
 ### Note:
 - Competition details available on [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/).
 - I have provided a simple approach to start with.  
+
+
+
+
+
