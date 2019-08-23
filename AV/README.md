@@ -1,7 +1,7 @@
 # Analytic Vidhya Competitions
 
 ## LTFS DataScience Finhack an Online Hackathon
-<img src='images/ltfs.png'>
+<img src='LFTS/images/ltfs.png'>
 
 ### Note:
 - Competition details available on [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/).
