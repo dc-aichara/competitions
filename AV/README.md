@@ -16,7 +16,7 @@
 - LightGBM gave best CV score and best public score 
 - [2842_5701.ipynp](https://github.com/dc-aichara/competitions/blob/master/AV/India_ML_Hiring_2019/2842_5701.ipynb) gave public score 0.2842 and private score 0.5701 which is highest among my submissions.<br>
 - [3383_5674.ipynb](https://github.com/dc-aichara/competitions/blob/master/AV/India_ML_Hiring_2019/3383_5674.ipynb) gave public score 0.3383 and private score 0.5674 which is second highest among my submissions.<br>
-- Notebooks don't have EDA. <br>
+- Notebooks don't include have EDA. <br>
 - To learn Bayesioan Optimization technique for Hyperparameters Optimization read my [Medium article](https://medium.com/game-of-data/hyperparameters-optimization-for-lightgbm-catboost-and-xgboost-regressors-using-bayesian-6e7c495947a9). <br>
 
 
