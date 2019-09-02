@@ -25,7 +25,7 @@
 
 ### Notes: 
 
-- I tried [Catboost](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_cgb.ipynb), [LightGBM](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_lgbm.ipynb) and [XGBoost](https://colab.research.google.com/drive/1bPqOify2F0ETfMLifLApGInRFuZuE4JJ) with hyperparameter optimization.
+- I tried [Catboost](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_cgb.ipynb), [LightGBM](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_lgbm.ipynb) and [XGBoost](https://colab.research.google.com/drive/1bPqOify2F0ETfMLifLApGInRFuZuE4JJ) with [hyperparameters optimization](https://medium.com/analytics-vidhya/hyperparameters-optimization-for-lightgbm-catboost-and-xgboost-regressors-using-bayesian-6e7c495947a9).
 - Catboost gives better result for WNS data compare to LightGBM and XGBoost.
 - Data preprocessing and feature engineering explained in Notebooks.
 - [Ensemble (Catboost + LightGBM ) model](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_ensemble.ipynb) scored 0.7532 on public data and 0.7455 on private data.
