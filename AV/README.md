@@ -21,7 +21,7 @@
 
 ## [WNS Analytics Wizard 2019](https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019/)
 
-<img src='WNS/images/wnd.png'>
+<img src='WNS/images/wns.png'>
 
 ### Notes: 
 
