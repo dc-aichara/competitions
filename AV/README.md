@@ -20,12 +20,16 @@
 - To learn Bayesioan Optimization technique for Hyperparameters Optimization read my [Medium article](https://medium.com/analytics-vidhya/hyperparameters-optimization-for-lightgbm-catboost-and-xgboost-regressors-using-bayesian-6e7c495947a9). <br>
 
 ## [WNS Analytics Wizard 2019](https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019/)
+
 <img src='WNS/images/wnd.png'>
+
 ### Notes: 
+
 - I tried [Catboost](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_cgb.ipynb), [LightGBM](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_lgbm.ipynb) and XGBoost with hyperparameter optimization.
 - Catboost gives better result for WNS data compare to LightGBM and XGBoost.
 - Data preprocessing and feature engineering explained in Notebooks.
 - [Ensemble (Catboost + LightGBM ) model](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_ensemble.ipynb) scored 0.7532 on public data and 0.7455 on private data.
+
 
 ## Disclaimer
 
