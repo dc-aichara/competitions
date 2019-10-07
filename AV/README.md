@@ -34,7 +34,10 @@
 
 <img src='AmEx_2019/Images/amex.png'>
 
+### Notes: 
+
 - [Solution](https://github.com/dc-aichara/competitions/blob/master/AV/AmEx_2019/AmEx.ipynb)
+
 ## Disclaimer
 
 ```text
