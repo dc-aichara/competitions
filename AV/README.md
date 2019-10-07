@@ -32,8 +32,9 @@
 
 ## [AmExpert 2019 – Machine Learning Hackathon](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/)
 
-<img src='AmEx/Images/amex.png'>
+<img src='AmEx_2019/Images/amex.png'>
 
+- [Solution](https://github.com/dc-aichara/competitions/blob/master/AV/AmEx_2019/AmEx.ipynb)
 ## Disclaimer
 
 ```text
