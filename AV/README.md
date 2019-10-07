@@ -30,6 +30,9 @@
 - Data preprocessing and feature engineering explained in Notebooks.
 - [Ensemble (Catboost + LightGBM ) model](https://github.com/dc-aichara/competitions/blob/master/AV/WNS/boosting_ensemble.ipynb) scored 0.7532 on public data and 0.7455 on private data.
 
+## [AmExpert 2019 – Machine Learning Hackathon](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/)
+
+<img src='AmEx/Images/amex.png'>
 
 ## Disclaimer
 
