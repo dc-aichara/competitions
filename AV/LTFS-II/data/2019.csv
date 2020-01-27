@@ -1,0 +1,47 @@
+date,day,holiday,holiday_type
+2019-01-01,Tuesday,New Year's Day (R),Restricted
+2019-01-13,Sunday,Guru Gobind Singh's Birthday (R),Restricted
+2019-01-14,Monday,Makar Sankranti (R),Restricted
+2019-01-15,Tuesday,Pongal (R),Restricted
+2019-01-26,Saturday,Republic Day (G),Gazetted
+2019-02-10,Sunday,Basant Panchami / Sri Panchami (R),Restricted
+2019-02-19,Tuesday,Guru Ravidas's Birthday (R),Restricted
+2019-03-01,Friday,Swami Dayananda Saraswati Jayanti (R),Restricted
+2019-03-04,Monday,Maha Shivaratri (G),Gazetted
+2019-03-20,Wednesday,Holika Dahan (R),Restricted
+2019-03-21,Thursday,Dolyatra (R),Restricted
+2019-04-06,Saturday,Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R),Restricted
+2019-04-13,Saturday,Ram Navami (Smarta) (R),Restricted
+2019-04-14,Sunday,Vaisakhi/ Vishu/ Mesadi (R),Restricted
+2019-04-15,Monday,Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R),Restricted
+2019-04-17,Wednesday,Mahavir Jayanti (G),Gazetted
+2019-04-19,Friday,Good Friday (G),Gazetted
+2019-04-21,Sunday,Easter Sunday (R),Restricted
+2019-05-09,Thursday,Guru Rabindranath's Birthday (R),Restricted
+2019-05-18,Saturday,Buddha Purnima (G),Gazetted
+2019-05-31,Friday,Jamat-Ul-Vida (R),Restricted
+2019-06-05,Wednesday,Id-ul- Fitr (G),Gazetted
+2019-07-04,Thursday,Rath Yatra (R),Restricted
+2019-08-12,Monday,Id-ul-Zuha (Bakrid) (G),Gazetted
+2019-08-15,Thursday,Raksha Bandhan (R),Restricted
+2019-08-17,Saturday,Parsi New Year's day/ Nauraj (R),Restricted
+2019-08-24,Saturday,Janmashtami (G),Gazetted
+2019-09-02,Monday,Vinayaka Chaturthi/ Ganesh Chaturthi (R),Restricted
+2019-09-10,Tuesday,Muharram (G),Gazetted
+2019-09-11,Wednesday,Onam or Thiru Onam Day (R),Restricted
+2019-10-02,Wednesday,Mahatma Gandhi's Birthday (G),Gazetted
+2019-10-05,Saturday,Dussehra (Maha Saptami) (Additional) (R),Restricted
+2019-10-06,Sunday,Dussehra (Maha Ashtami) (Additional) (R),Restricted
+2019-10-07,Monday,Dussehra (Maha Navmi) (R),Restricted
+2019-10-08,Tuesday,Dussehra (G),Gazetted
+2019-10-13,Sunday,Maharishi Valmiki's Birthday (R),Restricted
+2019-10-17,Thursday,Karaka Chaturthi (Karva Chouth) (R),Restricted
+2019-10-27,Sunday,Naraka Chaturdasi (R),Restricted
+2019-10-28,Monday,Govardhan Puja (R),Restricted
+2019-10-29,Tuesday,Bhai Duj (R),Restricted
+2019-11-02,Saturday,Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R),Restricted
+2019-11-10,Sunday,Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G),Gazetted
+2019-11-12,Tuesday,Guru Nanak's Birthday (G),Gazetted
+2019-11-24,Sunday,Guru Teg Bahadur's Martyrdom Day (R),Restricted
+2019-12-24,Tuesday,Christmas Eve (R),Restricted
+2019-12-25,Wednesday,Christmas Day (G),Gazetted
