@@ -40,7 +40,9 @@
 
 ## [LTFS DataScience Finhack-2 an Online Hackathon](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon/)
 
-<img src='LTFS-II/images/ltfs_II.png'>
+
+<img src='LTFS-II/Images/ltfs_II.png'>
+
 
 ### Notes: 
 
