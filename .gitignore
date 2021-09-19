@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+catboost_info/
+*.csv
+*.txt
+*.pkl
+*.json
+submissions/
+.DS_Store
+__pycache__/
